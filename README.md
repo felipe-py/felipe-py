@@ -2,7 +2,6 @@
 
 ### Felipe Silva, computer engineering student at Brazil.👨‍💻
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luis.silvareal77/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@FelipeSilva47)
 
 ![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=felipe-py&show_icons=true&theme=dark)
