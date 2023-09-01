@@ -7,8 +7,8 @@
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=felipe-py&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-py&layout=compact&langs_count=7&theme=dark"/>
+<img width="49%" loading="lazy" height="195px" src="https://github-readme-stats.vercel.app/api?username=felipe-py&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img width="49%" loading="lazy" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-py&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ## Languages and tools:
