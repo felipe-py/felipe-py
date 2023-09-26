@@ -5,11 +5,8 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@FelipeSilva47)
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-felipe-cunha-silva-86969328a/)
 
-<div>
-<a href="https://github.com/seu-usuário-aqui">
-<img width="49%" loading="lazy" height="195px" src="https://github-readme-stats.vercel.app/api?username=felipe-py&show_icons=true&theme=dark"/>
-<img width="49%" loading="lazy" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-py&layout=compact&langs_count=7&theme=dark"/>
-</div>
+| <a href="https://github.com/felipe-py/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=felipe-py&show_icons=true&theme=dark&hide_border=true" alt="Felipe Silva github stats" /></a> | <a href="https://github.com/felipe-py/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-py&layout=compact&theme=dark&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 ## Languages and tools:
 <div style="display: inline_block"><br/>
