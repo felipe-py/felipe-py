@@ -39,6 +39,3 @@
 </div>
 
 ###
-
-![snake animation](https://github.com/felipe-py/felipe-py/blob/output/github-contribution-grid-snake2.svg)
-###
