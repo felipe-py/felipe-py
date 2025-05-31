@@ -29,6 +29,10 @@
   <img src="https://skillicons.dev/icons?i=idea" height="30" alt="intellijidea logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=octave" height="30" alt="octave logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=latex" height="30" alt="latex logo"  />
 </div>
 
 ###
