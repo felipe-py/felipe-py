@@ -40,6 +40,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/felipe-py/felipe-py/output/snake.svg" alt="Snake animation" />
-
+![snake animation](https://github.com/felipe-py/felipe-py/blob/output/github-contribution-grid-snake2.svg)
 ###
