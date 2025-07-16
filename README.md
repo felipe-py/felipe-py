@@ -54,6 +54,78 @@
   <br>
 
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-45%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-29-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 529.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 200 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 17 Public Repositories 
+ > 
+> 🔑 5 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                106 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+🌆 Daytime                197 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
+🌃 Evening                760 commits         █████████████████░░░░░░░░   68.16 % 
+🌙 Night                  52 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   207 commits         █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
+Tuesday                  329 commits         ███████░░░░░░░░░░░░░░░░░░   29.51 % 
+Wednesday                203 commits         █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
+Thursday                 92 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
+Friday                   81 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+Saturday                 90 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
+Sunday                   113 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Bahia
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   6 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+TypeScript               5 repos             █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
+Jupyter Notebook         2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+MATLAB                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/felipe-py/felipe-py/main/assets/bar_graph.png)
+
+
+ Last Updated on 16/07/2025 21:39:55 UTC
+<!--END_SECTION:waka-->
 
 </details>
