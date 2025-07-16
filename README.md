@@ -52,4 +52,8 @@
 <details align="center">
   <summary>📊 Minhas Estatísticas de Programação</summary>
   <br>
-  </details>
+
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+
+</details>
