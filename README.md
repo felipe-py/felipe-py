@@ -54,7 +54,7 @@
   <br>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2038%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-100-blue)
 
@@ -99,15 +99,15 @@ Sunday                   113 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Bahia
 
 💬 Programming Languages: 
-TypeScript               1 hr 53 mins        █████████████████████████   98.35 % 
-Prisma                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+TypeScript               2 hrs 37 mins       █████████████████████████   98.80 % 
+Prisma                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-VS Code                  1 hr 55 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 38 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 55 mins        █████████████████████████   100.00 % 
+Linux                    2 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -127,7 +127,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/felipe-py/felipe-py/main/assets/bar_graph.png)
 
 
- Last Updated on 18/07/2025 04:32:52 UTC
+ Last Updated on 18/07/2025 08:17:24 UTC
 <!--END_SECTION:waka-->
 
 </details>
