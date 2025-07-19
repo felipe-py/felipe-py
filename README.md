@@ -55,9 +55,9 @@
   <br>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2029%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-100-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-103-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
 
@@ -100,15 +100,19 @@ Sunday                   113 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Bahia
 
 💬 Programming Languages: 
-TypeScript               2 hrs 37 mins       █████████████████████████   98.80 % 
-Prisma                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+TypeScript               4 hrs 7 mins        ███████████████████████░░   91.71 % 
+Jupyter                  16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+CSV                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+Prisma                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 38 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 9 mins        ███████████████████████░░   92.41 % 
+PyCharm                  20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
 
 💻 Operating System: 
-Linux                    2 hrs 38 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 9 mins        ███████████████████████░░   92.41 % 
+Windows                  20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
 ```
 
 **I Mostly Code in Python** 
@@ -128,7 +132,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/felipe-py/felipe-py/main/assets/bar_graph.png)
 
 
- Last Updated on 19/07/2025 04:24:24 UTC
+ Last Updated on 19/07/2025 08:15:27 UTC
 <!--END_SECTION:waka-->
 
 </details>
