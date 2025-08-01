@@ -55,7 +55,7 @@
   <br>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-19%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -64,8 +64,6 @@
 **🐱 My GitHub Data** 
 
 > 📦 530.6 kB Used in GitHub's Storage 
- > 
-> 🏆 270 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -132,7 +130,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/felipe-py/felipe-py/main/assets/bar_graph.png)
 
 
- Last Updated on 01/08/2025 01:08:35 UTC
+ Last Updated on 01/08/2025 04:46:57 UTC
 <!--END_SECTION:waka-->
 
 </details>
