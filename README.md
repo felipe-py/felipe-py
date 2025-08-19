@@ -48,8 +48,6 @@ src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=
 <div align="center">
   <p><strong>Contato</strong></p>
   <a href="mailto:luis.silvareal77@gmail.com?subject=[GitHub]%20Contato%20Profissional"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/[SEU_LINKEDIN_AQUI]"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</div>
 
 <br/>
 
