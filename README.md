@@ -43,6 +43,7 @@ src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=
   <img src="https://img.shields.io/badge/GNU_Octave-000000?style=for-the-badge&logo=gnu-octave&logoColor=white"/>
   <img src="https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/rstudio-000000?style=for-the-badge&logo=RStudio&logoColor=white"/>
 </div>
 
 <div align="center">
