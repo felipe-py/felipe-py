@@ -15,7 +15,7 @@
   🧔 Olá, meu nome é <strong>Felipe Silva</strong>. <br/>
   🌎 Moro em <strong>Feira de Santana-BA</strong>.<br/>
   💻 Atualmente estudando machine learning e ciência de dados.<br/>
-  🎓 Cursando o sétimo semestre em Engenharia de Computação - UEFS<br/>
+  🎓 Graduando em Engenharia de Computação - UEFS<br/>
 </p>
 
 <div align="center">
