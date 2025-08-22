@@ -57,7 +57,7 @@ src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=
   <br>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-27%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
@@ -67,7 +67,7 @@ src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=
 
 > 📦 530.7 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 288 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -102,15 +102,16 @@ Sunday                   133 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Bahia
 
 💬 Programming Languages: 
-Python                   2 hrs 11 mins       █████████████████████████   99.88 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Python                   1 hr 43 mins        █████████████████████████   99.85 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 11 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 43 mins        █████████████████████████   99.96 % 
+PyCharm                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
-Windows                  1 hr 48 mins        █████████████████████░░░░   82.41 % 
-Linux                    23 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
+Windows                  1 hr 20 mins        ███████████████████░░░░░░   77.74 % 
+Linux                    23 mins             ██████░░░░░░░░░░░░░░░░░░░   22.26 % 
 ```
 
 **I Mostly Code in Python** 
@@ -130,7 +131,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/felipe-py/felipe-py/main/assets/bar_graph.png)
 
 
- Last Updated on 22/08/2025 04:14:16 UTC
+ Last Updated on 22/08/2025 08:16:34 UTC
 <!--END_SECTION:waka-->
 
 </details>
