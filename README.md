@@ -67,8 +67,6 @@ src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=
 
 > 📦 530.7 kB Used in GitHub's Storage 
  > 
-> 🏆 288 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 19 Public Repositories 
@@ -128,7 +126,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/felipe-py/felipe-py/main/assets/bar_graph.png)
 
 
- Last Updated on 28/08/2025 20:13:40 UTC
+ Last Updated on 29/08/2025 00:52:58 UTC
 <!--END_SECTION:waka-->
 
 </details>
