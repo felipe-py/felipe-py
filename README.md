@@ -57,7 +57,7 @@ src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=
   <br>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-32%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -102,16 +102,16 @@ Sunday                   136 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Bahia
 
 💬 Programming Languages: 
-Python                   3 hrs 34 mins       █████████████████████████   98.63 % 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+Python                   4 hrs 30 mins       █████████████████████████   98.91 % 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 34 mins       █████████████████████████   98.77 % 
-PyCharm                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+VS Code                  4 hrs 31 mins       █████████████████████████   99.03 % 
+PyCharm                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
 
 💻 Operating System: 
-Windows                  3 hrs 37 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -131,7 +131,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/felipe-py/felipe-py/main/assets/bar_graph.png)
 
 
- Last Updated on 08/09/2025 04:14:39 UTC
+ Last Updated on 08/09/2025 08:17:51 UTC
 <!--END_SECTION:waka-->
 
 </details>
