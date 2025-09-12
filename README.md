@@ -65,7 +65,7 @@ src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=
 
 **🐱 My GitHub Data** 
 
-> 📦 530.8 kB Used in GitHub's Storage 
+> 📦 530.9 kB Used in GitHub's Storage 
  > 
 > 🏆 296 Contributions in the Year 2025
  > 
@@ -129,7 +129,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/felipe-py/felipe-py/main/assets/bar_graph.png)
 
 
- Last Updated on 12/09/2025 08:15:22 UTC
+ Last Updated on 12/09/2025 12:21:32 UTC
 <!--END_SECTION:waka-->
 
 </details>
