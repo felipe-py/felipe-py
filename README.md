@@ -57,7 +57,7 @@ src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=
   <br>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-38%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-39%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -114,11 +114,11 @@ Windows                  47 mins             ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   7 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-TypeScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
-Jupyter Notebook         3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-MATLAB                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Python                   8 repos             ███████░░░░░░░░░░░░░░░░░░   27.59 % 
+TypeScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+Jupyter Notebook         3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+MATLAB                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 ```
 
 
@@ -128,7 +128,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/felipe-py/felipe-py/main/assets/bar_graph.png)
 
 
- Last Updated on 06/10/2025 20:13:11 UTC
+ Last Updated on 07/10/2025 00:51:57 UTC
 <!--END_SECTION:waka-->
 
 </details>
