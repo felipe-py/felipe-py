@@ -57,6 +57,8 @@ src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=
   <br>
 
   <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-49%20hrs%2029%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
@@ -73,6 +75,42 @@ src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=
  > 
 > 🔑 4 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                131 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
+🌆 Daytime                212 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
+🌃 Evening                830 commits         █████████████████░░░░░░░░   67.04 % 
+🌙 Night                  65 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   217 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
+Tuesday                  338 commits         ███████░░░░░░░░░░░░░░░░░░   27.30 % 
+Wednesday                203 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
+Thursday                 138 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
+Friday                   97 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+Saturday                 109 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+Sunday                   136 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Bahia
+
+💬 Programming Languages: 
+Python                   26 mins             █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  26 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    26 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -90,7 +128,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/felipe-py/felipe-py/main/assets/bar_graph.png)
 
 
- Last Updated on 02/11/2025 04:15:50 UTC
+ Last Updated on 02/11/2025 08:14:00 UTC
 <!--END_SECTION:waka-->
 
 </details>
