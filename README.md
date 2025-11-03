@@ -57,7 +57,7 @@ src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=
   <br>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-50%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-50%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -75,42 +75,6 @@ src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=
  > 
 > 🔑 4 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                131 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
-🌆 Daytime                212 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
-🌃 Evening                833 commits         █████████████████░░░░░░░░   67.12 % 
-🌙 Night                  65 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   217 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
-Tuesday                  338 commits         ███████░░░░░░░░░░░░░░░░░░   27.24 % 
-Wednesday                203 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
-Thursday                 138 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
-Friday                   97 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
-Saturday                 109 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
-Sunday                   139 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Bahia
-
-💬 Programming Languages: 
-Python                   26 mins             █████████████████████████   100.00 % 
-
-🔥 Editors: 
-VS Code                  26 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    26 mins             █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -128,7 +92,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/felipe-py/felipe-py/main/assets/bar_graph.png)
 
 
- Last Updated on 03/11/2025 00:58:09 UTC
+ Last Updated on 03/11/2025 08:18:05 UTC
 <!--END_SECTION:waka-->
 
 </details>
