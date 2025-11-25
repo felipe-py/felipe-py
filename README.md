@@ -57,7 +57,7 @@ src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=
   <br>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-52%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-53%20hrs%2043%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -102,14 +102,16 @@ Sunday                   139 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Bahia
 
 💬 Programming Languages: 
-Dart                     34 mins             ████████████████████░░░░░   78.83 % 
-YAML                     9 mins              █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
+Python                   27 mins             ████████████░░░░░░░░░░░░░   48.63 % 
+Dart                     19 mins             ████████░░░░░░░░░░░░░░░░░   33.64 % 
+CSV                      6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+YAML                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
 
 🔥 Editors: 
-VS Code                  44 mins             █████████████████████████   100.00 % 
+VS Code                  57 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  44 mins             █████████████████████████   100.00 % 
+Windows                  57 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -129,7 +131,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/felipe-py/felipe-py/main/assets/bar_graph.png)
 
 
- Last Updated on 25/11/2025 04:19:11 UTC
+ Last Updated on 25/11/2025 08:18:41 UTC
 <!--END_SECTION:waka-->
 
 </details>
