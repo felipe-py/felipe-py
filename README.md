@@ -57,7 +57,7 @@ src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=
   <br>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-55%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-55%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -132,7 +132,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/felipe-py/felipe-py/main/assets/bar_graph.png)
 
 
- Last Updated on 01/12/2025 20:12:51 UTC
+ Last Updated on 02/12/2025 00:57:39 UTC
 <!--END_SECTION:waka-->
 
 </details>
