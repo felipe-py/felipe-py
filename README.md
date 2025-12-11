@@ -102,14 +102,13 @@ Sunday                   139 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Bahia
 
 💬 Programming Languages: 
-JavaScript               1 hr                █████████████████████████   99.98 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr                █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr                █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -129,7 +128,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/felipe-py/felipe-py/main/assets/bar_graph.png)
 
 
- Last Updated on 11/12/2025 04:29:13 UTC
+ Last Updated on 11/12/2025 08:19:50 UTC
 <!--END_SECTION:waka-->
 
 </details>
