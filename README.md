@@ -73,42 +73,6 @@ src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=
  > 
 > 🔑 4 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                138 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
-🌆 Daytime                215 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
-🌃 Evening                843 commits         █████████████████░░░░░░░░   66.85 % 
-🌙 Night                  65 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   223 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
-Tuesday                  338 commits         ███████░░░░░░░░░░░░░░░░░░   26.80 % 
-Wednesday                206 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
-Thursday                 149 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
-Friday                   97 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Saturday                 109 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
-Sunday                   139 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Bahia
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -126,7 +90,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/felipe-py/felipe-py/main/assets/bar_graph.png)
 
 
- Last Updated on 03/01/2026 04:25:44 UTC
+ Last Updated on 03/01/2026 08:17:19 UTC
 <!--END_SECTION:waka-->
 
 </details>
