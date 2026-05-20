@@ -57,15 +57,17 @@ src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=
   <br>
 
   <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-70%20hrs-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.54%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.55%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 12 Contributions in the Year 2026
+> 🏆 13 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -73,14 +75,50 @@ src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                138 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+🌆 Daytime                218 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
+🌃 Evening                849 commits         █████████████████░░░░░░░░   66.69 % 
+🌙 Night                  68 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   226 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
+Tuesday                  339 commits         ███████░░░░░░░░░░░░░░░░░░   26.63 % 
+Wednesday                208 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+Thursday                 149 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+Friday                   97 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
+Saturday                 109 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+Sunday                   145 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Bahia
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
-Python                   8 repos             ██████░░░░░░░░░░░░░░░░░░░   25.81 % 
-TypeScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-Jupyter Notebook         3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-MATLAB                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+Python                   9 repos             ███████░░░░░░░░░░░░░░░░░░   28.12 % 
+TypeScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+Jupyter Notebook         3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+MATLAB                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 ```
 
 
@@ -90,7 +128,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/felipe-py/felipe-py/main/assets/bar_graph.png)
 
 
- Last Updated on 20/05/2026 02:25:18 UTC
+ Last Updated on 20/05/2026 07:35:51 UTC
 <!--END_SECTION:waka-->
 
 </details>
