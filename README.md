@@ -104,13 +104,14 @@ Sunday                   145 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Bahia
 
 💬 Programming Languages: 
-Python                   7 mins              █████████████████████████   100.00 % 
+Python                   1 hr 6 mins         █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  7 mins              █████████████████████████   100.00 % 
+VS Code                  1 hr 6 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  7 mins              █████████████████████████   100.00 % 
+Windows                  55 mins             █████████████████████░░░░   84.09 % 
+Linux                    10 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -136,7 +137,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/felipe-py/felipe-py/main/assets/bar_graph.png)
 
 
- Last Updated on 06/08/2026 01:30:20 UTC
+ Last Updated on 06/08/2026 06:22:35 UTC
 <!--END_SECTION:waka-->
 
 </details>
