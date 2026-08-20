@@ -104,33 +104,33 @@ Sunday                   145 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Bahia
 
 💬 Programming Languages: 
-Python                   2 hrs 24 mins       ██████████████████░░░░░░░   70.70 % 
-CSV                      59 mins             ███████░░░░░░░░░░░░░░░░░░   29.30 % 
+Python                   1 hr 34 mins        ███████████████░░░░░░░░░░   61.17 % 
+CSV                      59 mins             ██████████░░░░░░░░░░░░░░░   38.83 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 24 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 34 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 24 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 28 mins (13.96%)
+⏱ AI Coding Time: 26 mins (17.4%)
 
-✍️ 0 lines written by AI, 3,190 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 3,000 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 7 AI Prompts
+🧠 2 AI Sessions, 6 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 1,233 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📄 Detailed Prompter — average 1,193 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -151,7 +151,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/felipe-py/felipe-py/main/assets/bar_graph.png)
 
 
- Last Updated on 20/08/2026 04:27:04 UTC
+ Last Updated on 20/08/2026 08:25:51 UTC
 <!--END_SECTION:waka-->
 
 </details>
