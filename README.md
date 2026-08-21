@@ -59,7 +59,7 @@ src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-75%20hrs%2054%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%207%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2011%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -104,20 +104,21 @@ Sunday                   145 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Bahia
 
 💬 Programming Languages: 
-Python                   1 hr 34 mins        ███████████████░░░░░░░░░░   61.17 % 
-CSV                      59 mins             ██████████░░░░░░░░░░░░░░░   38.83 % 
+Python                   1 hr 34 mins        ███████████████░░░░░░░░░░   59.89 % 
+CSV                      59 mins             ██████████░░░░░░░░░░░░░░░   38.02 % 
+Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 34 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 37 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 34 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 mins (17.4%)
+⏱ AI Coding Time: 30 mins (19.13%)
 
 ✍️ 0 lines written by AI, 3,000 lines written by hand (0.0% AI-written)
 
@@ -125,12 +126,12 @@ Windows                  2 hrs 34 mins       ███████████�
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 6 AI Prompts
+🧠 3 AI Sessions, 11 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
 📄 Detailed Prompter — average 1,193 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+🔁 Iterative Prompter — average 4 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -151,7 +152,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/felipe-py/felipe-py/main/assets/bar_graph.png)
 
 
- Last Updated on 21/08/2026 04:29:10 UTC
+ Last Updated on 21/08/2026 08:27:55 UTC
 <!--END_SECTION:waka-->
 
 </details>
