@@ -104,33 +104,34 @@ Sunday                   145 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Bahia
 
 💬 Programming Languages: 
-Python                   12 mins             ████████████████████░░░░░   78.61 % 
-Other                    3 mins              █████░░░░░░░░░░░░░░░░░░░░   21.39 % 
+Python                   40 mins             ███████████████████░░░░░░   76.30 % 
+CSV                      6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+Other                    6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
 
 🔥 Editors: 
-VS Code                  16 mins             █████████████████████████   100.00 % 
+VS Code                  52 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  16 mins             █████████████████████████   100.00 % 
+Windows                  52 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 mins (21.39%)
+⏱ AI Coding Time: 6 mins (11.84%)
 
-✍️ 0 lines written by AI, 1 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 5 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 16 AI Prompts
+🧠 2 AI Sessions, 21 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 762 characters per prompt
-🔁 Iterative Prompter — average 16 prompts per session
+📚 Verbose Prompter — average 2,261 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -151,7 +152,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/felipe-py/felipe-py/main/assets/bar_graph.png)
 
 
- Last Updated on 27/09/2026 02:30:41 UTC
+ Last Updated on 27/09/2026 09:40:11 UTC
 <!--END_SECTION:waka-->
 
 </details>
