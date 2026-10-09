@@ -124,8 +124,8 @@ No AI Coding Activity Tracked This Week
 ```text
 Python                   9 repos             ███████░░░░░░░░░░░░░░░░░░   28.12 % 
 TypeScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-Jupyter Notebook         3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+Jupyter Notebook         4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
 MATLAB                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 ```
 
@@ -136,7 +136,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/felipe-py/felipe-py/main/assets/bar_graph.png)
 
 
- Last Updated on 09/10/2026 11:01:58 UTC
+ Last Updated on 09/10/2026 17:44:15 UTC
 <!--END_SECTION:waka-->
 
 </details>
